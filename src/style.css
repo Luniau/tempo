@@ -56,3 +56,19 @@ width: 64px ;
     font-size: 16px;
 
 }
+.weather-forecast {
+    margin-top: 20px;
+    text-align: center;
+color: black;
+}
+
+.weather-forecast-date {
+    font-size: 16px;
+    opacity: 0.5;
+}
+.weather-forecast-temperature {
+    font-size: 13px;
+}
+.weather-forecast-tempearture-min {
+    opacity: 0.5;
+}
